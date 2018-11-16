@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body { 
+    background-image: url("../images/wheat.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-color:skyblue; 
+}
+
+.head{
+text-align: right; 
+}
+
+
+.jumbotron {
+    background-color: white; 
+}
+
+#master-container {
+    background-color: white; 
+}
