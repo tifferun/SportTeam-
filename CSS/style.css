@@ -81,19 +81,20 @@ body {
     /* background-color: purple;  */
     text-align: center; 
     font-weight: bold; 
-    font-size: 30px; 
+    font-size: 25px; 
     padding: 20px; 
-    float: right; 
+    /* float: right;  */
 }
 
 .content {
     /* background-color: yellow;  */
-    float: left; 
-    padding: 10px; 
-    text-align: justity; 
+    /* float: left;  */
+   margin: 20px; 
+    text-align:justify; 
 }
 
  .sidebar {
      /* background-color: blue;  */
      padding: 10px; 
+     text-align:justify; 
  }
