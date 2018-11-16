@@ -5,8 +5,6 @@
 body { 
     background-repeat: no-repeat; 
     background-size: cover;
-    background-color:cornflowerblue; 
-    background-color:gray;
     background-color:seagreen;
 
 }
@@ -14,10 +12,13 @@ body {
 
 .btn-reg {
     align-content: right; 
-    color:darkblue; 
     color: orange; 
 }
 
+.btn-reg:hover {
+    background-color: orange; 
+    color: white; 
+}
 
 #master-container {
     background-color: white; 
@@ -71,10 +72,28 @@ body {
     display: inline-block;
  }
 
- .welcome {
-     padding: 30px; 
-     text-align: center; 
-     font-size: 20px;
-     font-weight: bold;  
- }
  
+#master-container {
+    /* background-color: red;  */
+}
+
+.welcome {
+    /* background-color: purple;  */
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 30px; 
+    padding: 20px; 
+    float: right; 
+}
+
+.content {
+    /* background-color: yellow;  */
+    float: left; 
+    padding: 10px; 
+    text-align: justity; 
+}
+
+ .sidebar {
+     /* background-color: blue;  */
+     padding: 10px; 
+ }
