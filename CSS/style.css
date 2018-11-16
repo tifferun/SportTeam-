@@ -6,12 +6,16 @@ body {
     background-repeat: no-repeat; 
     background-size: cover;
     background-color:cornflowerblue; 
+    background-color:gray;
+    background-color:seagreen;
+
 }
 
 
 .btn-reg {
     align-content: right; 
     color:darkblue; 
+    color: orange; 
 }
 
 
@@ -30,16 +34,24 @@ body {
 .topnav a {
     float: left;
     color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-left: 20px;
     text-decoration: none;
     font-size: 17px;
-    position: sticky;
+    /* position: sticky; */
+    font-weight: bold; 
+    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Cinzel', serif;
+    text-align: center; 
 }
 
 
 .topnav a:hover {
     background-color: #ddd;
+    background-color: orange; 
     color: black;
 }
 
