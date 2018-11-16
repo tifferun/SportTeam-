@@ -105,3 +105,15 @@ body {
     align-content: center; 
     text-align: justify; 
  }
+
+ .contacts  {
+     /* background-color: turquoise;  */
+    align-content: center; 
+    text-align: justify; 
+ }
+
+ .forum  {
+   /* background-color: limegreen; */
+   align-content: center; 
+   text-align: justify; 
+}
