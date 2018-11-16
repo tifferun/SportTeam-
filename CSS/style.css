@@ -6,6 +6,7 @@ body {
     background-repeat: no-repeat; 
     background-size: cover;
     background-color:seagreen;
+    /* background-color: darkslategray;  */
 
 }
 
@@ -97,4 +98,10 @@ body {
      /* background-color: blue;  */
      padding: 10px; 
      text-align:justify; 
+ }
+
+ .schedule-content {
+     /* background-color: hotpink;  */
+    align-content: center; 
+    text-align: justify; 
  }
