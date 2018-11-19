@@ -3,9 +3,14 @@
 }
 
 body { 
+
+    background-image: url("../images/greenTexture.jpg");
     background-repeat: no-repeat; 
     background-size: cover;
-    background-color:seagreen;
+    background-color:red; 
+    /* background-repeat: no-repeat; 
+    background-size: cover;
+    background-color:seagreen; */
 }
 
 .btn-reg {
@@ -39,9 +44,10 @@ body {
     font-size: 17px;
     position: sticky;
     font-weight: bold; 
-    font-family: 'Cinzel', serif;
     text-align: center; 
+    font-family: 'Cinzel', serif;
 }
+   
 
 .topnav a:hover {
     background-color: #ddd;
