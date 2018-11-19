@@ -6,10 +6,7 @@ body {
     background-repeat: no-repeat; 
     background-size: cover;
     background-color:seagreen;
-    /* background-color: darkslategray;  */
-
 }
-
 
 .btn-reg {
     align-content: right; 
@@ -25,8 +22,6 @@ body {
     background-color: white; 
 }
 
-
-
 .topnav {
     background-color: #333;
     overflow: hidden; 
@@ -34,9 +29,7 @@ body {
     justify-content: center; 
 }
 
-
 .topnav a {
-    
     color: #f2f2f2;
     padding-top: 15px;
     padding-right: 20px;
@@ -44,15 +37,11 @@ body {
     padding-left: 20px;
     text-decoration: none;
     font-size: 17px;
-    /* position: sticky; */
+    position: sticky;
     font-weight: bold; 
-    font-family: 'Titillium Web', sans-serif;
-    font-family: 'Josefin Sans', sans-serif;
     font-family: 'Cinzel', serif;
     text-align: center; 
-   
 }
-
 
 .topnav a:hover {
     background-color: #ddd;
@@ -60,12 +49,10 @@ body {
     color: black;
 }
 
-
 .topnav a.active {
     background-color:white; 
     color: black; 
 }
-
 
 .nav ul {
     list-style: none;
@@ -76,47 +63,34 @@ body {
     display: inline-block;
  }
 
- 
-#master-container {
-    /* background-color: red;  */
-}
-
 .welcome {
-    /* background-color: purple;  */
     text-align: center; 
     font-weight: bold; 
     font-size: 25px; 
     padding: 20px; 
-    /* float: right;  */
 }
 
 .content {
-    /* background-color: yellow;  */
-    /* float: left;  */
    margin: 20px; 
     text-align:justify; 
 }
 
  .sidebar {
-     /* background-color: blue;  */
      padding: 10px; 
      text-align:justify; 
  }
 
  .schedule-content {
-     /* background-color: hotpink;  */
     align-content: center; 
     text-align: justify; 
  }
 
  .contacts  {
-     /* background-color: turquoise;  */
     align-content: center; 
     text-align: justify; 
  }
 
  .forum  {
-   /* background-color: limegreen; */
    align-content: center; 
    text-align: justify; 
 }
@@ -125,7 +99,6 @@ body {
 background-color: #333; 
 color: white; 
 text-align: center; 
-/* padding: 5px;  */
 }
 
 .footer p {

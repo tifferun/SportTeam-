@@ -1,0 +1,85 @@
+.contact-list {
+/* background-color: red;  */
+}
+
+.table-spot {
+     /* background-color: yellow;  */
+    display: flex; 
+    justify-content: center; 
+}
+
+.table-head {
+background-color: orange; 
+color: white; 
+font-size: 20px; 
+border-style: groove;
+}
+
+.table {
+    /* background-color: maroon;  */
+    border-style: double;
+    font-size: 20px;
+}
+
+
+.person {
+background-color: #dde8c7; 
+border-bottom-style: dashed;
+
+}
+
+/*RESPONSIVE CSS BELOW*/
+  
+/* Large devices (desktops, 992px and up) */
+@media screen and (max-width: 1200px) {
+    .table {
+        font-size: 20px;
+        background-color: aqua;
+    }
+    .table-head
+    {
+        font-size: 20px;
+        background-color: aqua;
+    }
+    
+}
+
+@media (max-width: 992px) { 
+    .table {
+        font-size: 15px;
+        background-color: blueviolet; 
+    }
+    .table-head
+    {
+        font-size: 15px;
+        background-color: blueviolet; 
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+
+
+@media (max-width: 768px) { 
+    .table {
+        font-size: 10px; 
+        background-color:hotpink;
+    }
+    .table-head
+    {
+        font-size: 10px; 
+        background-color:hotpink;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) { 
+    .table {
+        font-size: 10px; 
+        background-color: limegreen; 
+    }
+    .table-head  {
+        font-size: 10px; 
+        background-color: limegreen; 
+    }
+}
+    
