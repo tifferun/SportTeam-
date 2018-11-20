@@ -8,21 +8,37 @@ body {
     background-repeat: no-repeat; 
     background-size: cover;
     background-color:red; 
+    /* text-align: right; 
+    font-size: 2rem;
+    font-weight: 400; */
     /* background-repeat: no-repeat; 
     background-size: cover;
     background-color:seagreen; */
 }
 
+#top-container {
+    text-align: right; 
+    /* color: #fb511b; */
+    font-size: 2rem;
+    font-weight: 400; 
+    margin-right: 30px; 
+}
+
+.social {
+    /* text-align: right; 
+    font-size: 2rem;
+    font-weight: 400; */
+}
 
 
 
 .btn-reg {
     align-content: right; 
-    color: orange; 
+    color: #fb511b;
 }
 
 .btn-reg:hover {
-    background-color: orange; 
+    background-color:#fb511b;
     color: white; 
 }
 
@@ -54,7 +70,7 @@ body {
 
 .topnav a:hover {
     background-color: #ddd;
-    background-color: orange; 
+    background-color:#fb511b;
     color: black;
 }
 
