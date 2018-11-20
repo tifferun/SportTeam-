@@ -4,10 +4,10 @@
 
 body { 
 
-    background-image: url("../images/greenTexture.jpg");
+    /* background-image: url("../images/greenTexture.jpg"); */
     background-repeat: no-repeat; 
     background-size: cover;
-    background-color:red; 
+    background-color: white; 
     /* text-align: right; 
     font-size: 2rem;
     font-weight: 400; */
@@ -15,23 +15,6 @@ body {
     background-size: cover;
     background-color:seagreen; */
 }
-
-#top-container {
-    text-align: right; 
-    /* color: #fb511b; */
-    font-size: 2rem;
-    font-weight: 400; 
-    margin-right: 36.3px;
-}
-
-.social {
-    text-align: right; 
-    font-size: 2rem;
-    font-weight: 400;
-    color: #fb511b;
-}
-
-
 
 .btn-reg {
     align-content: right; 
@@ -43,9 +26,7 @@ body {
     color: white; 
 }
 
-#master-container {
-    background-color: white; 
-}
+
 
 .topnav {
     background-color: #333;
@@ -78,6 +59,11 @@ body {
 .topnav a.active {
     background-color:white; 
     color: black; 
+}
+
+
+#master-container {
+    background-color: white; 
 }
 
 .nav ul {
@@ -123,13 +109,28 @@ body {
 
 .footer {
 background-color: #333; 
-color:#fb511b;
-text-align: center; 
-padding: 35px; 
-font-size: 25px; 
-
+color: white; 
+color: #fb511b;
+padding: 25px; 
 }
 
 .footer p {
     margin-bottom: 0;
+    text-align: center; 
+}
+
+.copyright {
+    font-size: 25px; 
+}
+
+.top-container {
+    text-align: center; 
+    color: #fb511b;
+    font-size: 45px; 
+    font-weight: 400; 
+    margin-right: 36.3px;
+}
+
+.middle-bar {
+    background-color: #333;
 }
