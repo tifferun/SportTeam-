@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body { 
+
+    /* background-image: url("../images/greenTexture.jpg"); */
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-color:  #fb511b;
+    /* text-align: right; 
+    font-size: 2rem;
+    font-weight: 400; */
+    /* background-repeat: no-repeat; 
+    background-size: cover;
+    background-color:seagreen; */
+}
+

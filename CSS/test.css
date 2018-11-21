@@ -1,0 +1,36 @@
+.contact-list {
+    /* background-color: red;  */
+    padding-bottom: 60px; 
+    }
+    
+    .table-spot {
+         /* background-color: yellow;  */
+        display: flex; 
+        justify-content: center; 
+    }
+    
+    
+    
+    .table-head {
+    background-color:#fb511b;
+    color: white; 
+    /* color: black;  */
+    font-size: 20px; 
+    border-style: groove;
+    font-family: 'Halant', serif;
+    }
+    
+    .table {
+        /* background-color: maroon;  */
+        border-style: double;
+        font-size: 20px;
+    }
+    
+    
+    .person {
+    background-color: white; 
+    border-bottom-style: dashed;
+    font-family: 'Halant', serif;
+    
+    }
+   

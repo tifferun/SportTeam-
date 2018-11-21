@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body { 
+
+    /* background-image: url("../Images/wheat.jpg"); */
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-color: #fb511b;
+   }
+
+.master-container {
+  align-content: center; 
+  background-color: green;  
+  background-color: white;  
+  height: 
+  width: 50%;
+  background-color: powderblue;
+}
+
+
+.btn-reg {
+    background-color:white;
+    color:black;  
+    align-content: center; 
+}
+
+.btn-reg:hover {
+    background-color:black; 
+    color: white; 
+}
+
+.card {
+    background-color: transparent; 
+    align-content: center; 
+} 
+
+/* div {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+} */
