@@ -1,5 +1,6 @@
 .contact-list {
 /* background-color: red;  */
+padding-bottom: 60px; 
 }
 
 .table-spot {
@@ -39,12 +40,12 @@ font-family: 'Halant', serif;
 @media screen and (max-width: 1200px) {
     .table {
         font-size: 18px;
-        background-color: aqua;
+        /* background-color: aqua; */
     }
     .table-head
     {
         font-size: 18px;
-        background-color: aqua;
+        /* background-color: aqua; */
     }
     
 }
@@ -52,12 +53,12 @@ font-family: 'Halant', serif;
 @media (max-width: 992px) { 
     .table {
         font-size: 12px;
-        background-color: blueviolet; 
+        /* background-color: blueviolet;  */
     }
     .table-head
     {
         font-size: 12px;
-        background-color: blueviolet; 
+        /* background-color: blueviolet;  */
     }
 }
 
@@ -67,12 +68,12 @@ font-family: 'Halant', serif;
 @media (max-width: 768px) { 
     .table {
         font-size: 8px; 
-        background-color:hotpink;
+        /* background-color:hotpink; */
     }
     .table-head
     {
         font-size: 8px; 
-        background-color:hotpink;
+        /* background-color:hotpink; */
     }
 }
 
@@ -80,11 +81,11 @@ font-family: 'Halant', serif;
 @media (max-width: 576px) { 
     .table {
         font-size: 6px; 
-        background-color: limegreen; 
+        /* background-color: limegreen;  */
     }
     .table-head  {
         font-size: 6px; 
-        background-color: limegreen; 
+        /* background-color: limegreen;  */
     }
 }
     
