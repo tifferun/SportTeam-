@@ -3,16 +3,24 @@
 }
 
 body { 
-
-    /* background-image: url("../images/greenTexture.jpg"); */
     background-repeat: no-repeat; 
     background-size: cover;
     background-color:  #fb511b;
-    /* text-align: right; 
-    font-size: 2rem;
-    font-weight: 400; */
-    /* background-repeat: no-repeat; 
-    background-size: cover;
-    background-color:seagreen; */
 }
 
+.container {
+/* background-color: limegreen; */
+background-color: white; 
+}
+
+.cat {
+    /* background-color:lightpink; */
+    text-align: center;
+    color: #fb511b;
+    padding-top: 50px; 
+}
+
+.dog {
+    font-weight: bold; 
+    /* background-color:yellow; 
+} */
