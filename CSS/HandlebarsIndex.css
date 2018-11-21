@@ -9,26 +9,29 @@ body {
 }
 
 .container {
-background-color: limegreen;
-/* display: flex; */
-/* justify-content: center;   */
+/* background-color: limegreen; */
+background-color: white; 
+
 }
 
 .header {
-    background-color:lightpink;
+    /* background-color:lightpink; */
+    text-align: center;
+    color: #fb511b;
 }
 
 .here {
-    background-color: blue;  
+    /* background-color: blue;   */
+    text-align: center;
 }
 
 
 .bird {
-    background-color: yellow;
-    text-align: center;
-    /* align-content: center;   */
+    /* background-color: yellow; */
+    font-weight: bold; 
+    padding: 25px; 
 }
 
 .reg {
-    background-color: purple; 
+    /* background-color: purple;  */
 }
