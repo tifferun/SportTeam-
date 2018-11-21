@@ -110,7 +110,7 @@ body {
 .footer {
 background-color: #333; 
 color: white; 
-color: #fb511b;
+/* color: #fb511b; */
 padding: 25px; 
 }
 
@@ -119,18 +119,26 @@ padding: 25px;
     text-align: center; 
 }
 
-.copyright {
-    font-size: 25px; 
-}
 
-.top-container {
+
+.footer-container {
     text-align: center; 
     color: #fb511b;
     font-size: 45px; 
     font-weight: 400; 
-    margin-right: 36.3px;
+    /* margin-right: 36.3px; */
 }
 
-.middle-bar {
-    background-color: #333;
+.copyright {
+    font-size: 25px;
+    color: #fb511b;
+}
+
+.icons {
+    color: #fb511b;
+}
+
+.icons :hover {
+    color: purple; 
+    color: white;
 }
