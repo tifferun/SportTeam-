@@ -7,7 +7,7 @@ body {
     background-color:  #fb511b;
 }
 
-.container-star {
+.container-icon {
     text-align: center; 
     color: white; 
     font-size: 45px; 
@@ -22,7 +22,7 @@ border-style: ridge;
 
 }
 
-.cat {
+.header {
     /* background-color:lightpink; */
     text-align: center;
     color: #fb511b;
@@ -30,7 +30,7 @@ border-style: ridge;
     padding-bottom: 10px; 
 }
 
-.dog {
+.info {
     font-weight: bold; 
     margin-bottom: 30px; 
     /* background-color:yellow;  */
