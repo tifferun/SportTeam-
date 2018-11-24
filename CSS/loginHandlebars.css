@@ -11,16 +11,19 @@ body {
 .container {
 /* background-color: limegreen; */
 background-color: white; 
+padding-bottom: 50px;
 }
 
 .cat {
     /* background-color:lightpink; */
     text-align: center;
     color: #fb511b;
-    padding-top: 50px; 
+    padding-top: 60px; 
+    padding-bottom: 40px; 
 }
 
 .dog {
     font-weight: bold; 
-    /* background-color:yellow; 
-} */
+    margin-bottom: 30px; 
+    /* background-color:yellow;  */
+} 

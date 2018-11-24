@@ -8,9 +8,25 @@ body {
     background-color:  #fb511b;
 }
 
+.container-star {
+    text-align: center; 
+    color: white; 
+    font-size: 45px; 
+    font-weight: 400;  
+}
+
+.icons .star {
+    color: white; 
+}
+
+.icons .star :hover {
+    color: blue; 
+}
+
 .container {
 /* background-color: limegreen; */
 background-color: white; 
+margin-bottom: 50px; 
 
 }
 
@@ -19,6 +35,11 @@ background-color: white;
     text-align: center;
     color: #fb511b;
     padding-top: 50px; 
+    padding-bottom: 20px; 
+}
+
+.Or {
+    font-size: 25px; 
 }
 
 .here {
@@ -35,4 +56,5 @@ background-color: white;
 
 .reg {
     /* background-color: purple;  */
+    margin-bottom: 30px; 
 }
