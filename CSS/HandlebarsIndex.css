@@ -1,9 +1,8 @@
-/* * {
+* {
     box-sizing: border-box;
-} */
+}
 
 body { 
-    background-repeat: no-repeat; 
     background-size: cover;
     background-color:  #fb511b;
 }
@@ -27,8 +26,8 @@ border-style: ridge;
     /* background-color:lightpink; */
     text-align: center;
     color: #fb511b;
-    padding-top: 50px; 
-    padding-bottom: 20px; 
+    padding-top: 60px; 
+    padding-bottom: 10px; 
 }
 
 .Or {
