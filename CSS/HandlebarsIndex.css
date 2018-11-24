@@ -12,21 +12,14 @@ body {
     text-align: center; 
     color: white; 
     font-size: 45px; 
-    font-weight: 400;  
-}
-
-.icons .star {
-    color: white; 
-}
-
-.icons .star :hover {
-    color: blue; 
+    font-weight: 400; 
 }
 
 .container {
 /* background-color: limegreen; */
 background-color: white; 
-margin-bottom: 50px; 
+margin-bottom: 50px;
+border-style: ridge;
 
 }
 

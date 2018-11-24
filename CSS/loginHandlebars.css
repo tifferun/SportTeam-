@@ -8,10 +8,19 @@ body {
     background-color:  #fb511b;
 }
 
+.container-star {
+    text-align: center; 
+    color: white; 
+    font-size: 45px; 
+    font-weight: 400;  
+}
+
 .container {
 /* background-color: limegreen; */
 background-color: white; 
 padding-bottom: 50px;
+border-style: ridge;
+
 }
 
 .cat {
@@ -19,7 +28,7 @@ padding-bottom: 50px;
     text-align: center;
     color: #fb511b;
     padding-top: 60px; 
-    padding-bottom: 40px; 
+    padding-bottom: 10px; 
 }
 
 .dog {
