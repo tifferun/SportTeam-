@@ -3,8 +3,6 @@
 }
 
 body { 
-
-    /* background-image: url("../Images/wheat.jpg"); */
     background-repeat: no-repeat; 
     background-size: cover;
     background-color: #fb511b;
@@ -14,11 +12,9 @@ body {
   align-content: center; 
   background-color: green;  
   background-color: white;  
-  height: 
   width: 50%;
   background-color: powderblue;
 }
-
 
 .btn-reg {
     background-color:white;
@@ -35,9 +31,3 @@ body {
     background-color: transparent; 
     align-content: center; 
 } 
-
-/* div {
-    height: 200px;
-    width: 50%;
-    background-color: powderblue;
-} */

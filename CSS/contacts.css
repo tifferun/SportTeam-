@@ -1,10 +1,8 @@
 .contact-list {
-/* background-color: red;  */
 padding-bottom: 60px; 
 }
 
 .table-spot {
-     /* background-color: yellow;  */
     display: flex; 
     justify-content: center; 
 }
@@ -14,14 +12,12 @@ padding-bottom: 60px;
 .table-head {
 background-color:#fb511b;
 color: white; 
-/* color: black;  */
 font-size: 20px; 
 border-style: groove;
-font-family: 'Halant', serif;
+/* font-family: 'Halant', serif; */
 }
 
 .table {
-    /* background-color: maroon;  */
     border-style: double;
     font-size: 20px;
 }
@@ -30,7 +26,7 @@ font-family: 'Halant', serif;
 .person {
 background-color: white; 
 border-bottom-style: dashed;
-font-family: 'Halant', serif;
+/* font-family: 'Halant', serif; */
 
 }
 
@@ -80,12 +76,12 @@ font-family: 'Halant', serif;
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 576px) { 
     .table {
-        font-size: 6px; 
+        font-size: 8px; 
         /* background-color: limegreen;  */
     }
     .table-head  {
-        font-size: 6px; 
-        background-color: limegreen; 
+        font-size: 8px; 
+        /* background-color: limegreen;  */
     }
 }
     

@@ -3,17 +3,9 @@
 }
 
 body { 
-
-    /* background-image: url("../images/greenTexture.jpg"); */
     background-repeat: no-repeat; 
     background-size: cover;
     background-color: white; 
-    /* text-align: right; 
-    font-size: 2rem;
-    font-weight: 400; */
-    /* background-repeat: no-repeat; 
-    background-size: cover;
-    background-color:seagreen; */
 }
 
 .btn-reg {
@@ -25,7 +17,6 @@ body {
     background-color:#333;
     color: white; 
 }
-
 
 
 .topnav {
@@ -109,11 +100,10 @@ body {
 }
 
 .footer {
-background-color: #333; 
-background-color: #fb511b;
-color: white; 
-/* color: #fb511b; */
-padding: 25px; 
+   background-color: #333; 
+   background-color: #fb511b;
+   color: white; 
+   padding: 25px; 
 }
 
 .footer p {
@@ -128,7 +118,6 @@ padding: 25px;
     color: #fb511b;
     font-size: 45px; 
     font-weight: 400; 
-    /* margin-right: 36.3px; */
 }
 
 .copyright {
