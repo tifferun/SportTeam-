@@ -15,38 +15,31 @@ body {
 }
 
 .container {
-/* background-color: limegreen; */
 background-color: white; 
 margin-bottom: 50px;
 border-style: ridge;
-
 }
 
 .header {
-    /* background-color:lightpink; */
     text-align: center;
     color: #fb511b;
     padding-top: 60px; 
     padding-bottom: 10px; 
 }
 
-.Or {
+.login {
     font-size: 25px; 
 }
 
-.here {
-    /* background-color: blue;   */
+.below {
     text-align: center;
 }
 
-
-.bird {
-    /* background-color: yellow; */
+.info {
     font-weight: bold; 
     padding: 25px; 
 }
 
 .reg {
-    /* background-color: purple;  */
     margin-bottom: 30px; 
 }
